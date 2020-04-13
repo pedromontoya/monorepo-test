@@ -1,1 +1,1 @@
-export default "Node Module";
+export default "Node Module 1";
