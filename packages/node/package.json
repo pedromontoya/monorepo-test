@@ -1,5 +1,11 @@
 {
   "name": "@monorepo-test/node",
+  "repository": {
+    "url": "https://github.com/pedromontoya/monorepo-test.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
