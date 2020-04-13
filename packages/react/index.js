@@ -1,1 +1,1 @@
-export default "React Module 1";
+export default "React Module 2";
