@@ -4,7 +4,7 @@
     "url": "https://github.com/pedromontoya/monorepo-test.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/pedromontoya"
   },
   "version": "0.0.5",
   "description": "",
@@ -15,5 +15,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "83c696d4b5cc2a769f3f6698992731b4ccc28701"
+  "gitHead": "2c10de4a25bacdac9c14789726b8f35955f82ae0"
 }
