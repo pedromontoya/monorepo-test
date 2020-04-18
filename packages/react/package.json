@@ -1,11 +1,7 @@
 {
-  "name": "@monorepo-test/react",
+  "name": "@pedromontoya/monorepo-test-react",
   "repository": {
     "url": "https://github.com/pedromontoya/monorepo-test.git"
-  },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.8",
   "description": "",
@@ -16,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "19097b340aae5314deda997672e03c7df680b3b7"
+  "gitHead": "688995a56719159dc14915a7551a8fe0b3082804"
 }

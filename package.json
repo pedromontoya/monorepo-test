@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-test",
+  "name": "@pedromontoya/monorepo-test",
   "repository": {
     "url": "https://github.com/pedromontoya/monorepo-test.git"
   },
