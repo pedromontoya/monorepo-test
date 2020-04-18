@@ -5,7 +5,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/pedromontoya"
+    "registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.7",
   "description": "",
@@ -16,5 +16,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "bab35ae226882a97d6ae3ed2ee12b86e38997e0e"
+  "gitHead": "19097b340aae5314deda997672e03c7df680b3b7"
 }
